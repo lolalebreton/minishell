@@ -4,6 +4,8 @@
 The objective is to recreate a simple shell from scratch.
 
 ## Setup
+Attention! The project currently only runs on Linux environements.
+
 To compile run
 ```
 $ make
