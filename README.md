@@ -4,7 +4,7 @@
 The objective is to recreate a simple shell from scratch.
 
 ## Setup
-To compile the mandatory part (use of threads) run
+To compile run
 ```
 $ make
 ```
