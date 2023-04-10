@@ -4,7 +4,7 @@
 The objective is to recreate a simple shell from scratch.
 
 ## Setup
-Attention! The project currently only runs on Linux environements.
+Attention! The project currently only runs on Linux environments.
 
 To compile run
 ```
